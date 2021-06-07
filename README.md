@@ -3,9 +3,6 @@
 <div align="center">
     <img src="assests/gsoc_logo.png" width="600" alt="gsoc logo"> <br>
     <img src="assests/chaoss_logo.png" width="300" alt="chaoss logo"> <br>
-</div>
-
-<p style="text-align: center;">
     <b>
         Automate Metrics Release and Process Improvement
     </b>
@@ -16,7 +13,7 @@
     <a href="#links">Links</a>
     <br>
     Weekly updates will be posted on my <a href="https://medium.com/@ritik18406">blog</a>
-</p>
+</div>
 
 ## Project Abstract
 
