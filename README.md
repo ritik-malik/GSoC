@@ -25,10 +25,10 @@ Once the automatic metric release is implemented, we can extend this idea to aut
 
 ## Mentors
 
-* [Kevin Lumbard](github.com/klumb)
-* [Matt Germonprez](github.com/germonprez)
-* [Georg Link](github.com/georgLink)
-* [Jaskirat Singh](github.com/jaskiratsingh2000)
+* [Kevin Lumbard](https://github.com/klumb)
+* [Matt Germonprez](https://github.com/germonprez)
+* [Georg Link](https://github.com/georgLink)
+* [Jaskirat Singh](https://github.com/jaskiratsingh2000)
 
 ## Prototype Pipeline
 
