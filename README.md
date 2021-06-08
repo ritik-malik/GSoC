@@ -1,8 +1,8 @@
 # GSoC
 
 <div align="center">
-    <img src="assests/gsoc_logo.png" width="600" alt="gsoc logo"> <br>
-    <img src="assests/chaoss_logo.png" width="300" alt="chaoss logo"> <br>
+    <img src="assets/gsoc_logo.png" width="600" alt="gsoc logo"> <br>
+    <img src="assets/chaoss_logo.png" width="300" alt="chaoss logo"> <br>
     <b>
         Automate Metrics Release and Process Improvement
     </b>
@@ -44,7 +44,7 @@ The document containing updates from these meetings can be found here. (add link
 
 | GSoC Acceptence | Blog |
 | --------------- | ---- |
-| GSoC acceptance blog | link |
+| GSoC acceptance blog | [link](https://ritik18406.medium.com/a-new-expedition-awaits-gsoc-21-639fc117e5a0) |
 
 | Coding Period 1 | Blog |
 | --------------- | ---- |
