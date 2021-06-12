@@ -1,8 +1,8 @@
 # GSoC
 
 <div align="center">
-    <img src="assets/gsoc_logo.png" width="600" alt="gsoc logo"> <br>
-    <img src="assets/chaoss_logo.png" width="300" alt="chaoss logo"> <br>
+    <img src="assets/gsoc_logo.png" width="700" alt="gsoc logo"> <br>
+    <img src="assets/chaoss_logo.jpg" width="300" alt="chaoss logo"> <br>
     <b>
         Automate Metrics Release and Process Improvement
     </b>
@@ -25,10 +25,10 @@ Once the automatic metric release is implemented, we can extend this idea to aut
 
 ## Mentors
 
-* [Kevin Lumbard](https://github.com/klumb)
-* [Matt Germonprez](https://github.com/germonprez)
 * [Georg Link](https://github.com/georgLink)
 * [Jaskirat Singh](https://github.com/jaskiratsingh2000)
+* [Kevin Lumbard](https://github.com/klumb)
+* [Matt Germonprez](https://github.com/germonprez)
 
 ## Prototype Pipeline
 
@@ -37,7 +37,7 @@ The same can be found in [this repository](https://github.com/ritik-malik/protot
 
 ## Weekly Meetings
 
-The offical weekly meetings for this project are being conducted on google-meet on mondays at 9:00 am CDT / 2:00 pm UTC / 7:30 pm IST. \
+The offical weekly meetings for this project are being conducted on google-meet on Mondays at 9:00 am CDT / 2:00 pm UTC / 7:30 pm IST. \
 The document containing updates from these meetings can be found here. (add link later)
 
 ## Weekly Updates
@@ -46,9 +46,14 @@ The document containing updates from these meetings can be found here. (add link
 | --------------- | ---- |
 | GSoC acceptance blog | [link](https://ritik18406.medium.com/a-new-expedition-awaits-gsoc-21-639fc117e5a0) |
 
-| Coding Period 1 | Blog |
-| --------------- | ---- |
-| sample | link |
+
+| Coding Period 1 | Blog |  Notes |
+| :-------------: | ---- |  ----- |
+| Week 1 | link | link |
+| Week 2 | link | link |
+| Week 3 | link | link |
+| Week 4 | link | link |
+| Week 5 | link | link |
 
 
 ## Links
