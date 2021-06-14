@@ -1,12 +1,8 @@
-# GSoC
-
 <div align="center">
-    <img src="assets/gsoc_logo.png" width="700" alt="gsoc logo"> <br>
-    <img src="assets/chaoss_logo.jpg" width="300" alt="chaoss logo"> <br>
-    <b>
+    <a href="https://summerofcode.withgoogle.com/projects/#6676319141625856"><img src="assets/gsoc.png" width="700" alt="gsoc logo"></a> <br>
+    <h2>
         Automate Metrics Release and Process Improvement
-    </b>
-    <br>
+    </h2>
 	<a href="#project-abstract">Project Abstract</a> |
     <a href="#weekly-meetings">Weekly Meetings</a> |
     <a href="#weekly-updates">Weekly Upates</a> |
@@ -38,18 +34,18 @@ The same can be found in [this repository](https://github.com/ritik-malik/protot
 ## Weekly Meetings
 
 The offical weekly meetings for this project are being conducted on google-meet on Mondays at 9:00 am CDT / 2:00 pm UTC / 7:30 pm IST. \
-The document containing updates from these meetings can be found here. (add link later)
+The meeting minutes document can be found [here](https://docs.google.com/document/d/16SMMgMPzB1fz_On3KwGUI-Y3CrNwYnIgc-Avtj3JJ08/edit).
 
 ## Weekly Updates
 
 | GSoC Acceptence | Blog |
-| --------------- | ---- |
+| :-------------: | :--: |
 | GSoC acceptance blog | [link](https://ritik18406.medium.com/a-new-expedition-awaits-gsoc-21-639fc117e5a0) |
 
 
 | Coding Period 1 | Blog |  Notes |
-| :-------------: | ---- |  ----- |
-| Week 1 | link | link |
+| :-------------: | :--: |  :---: |
+| Week 1 | [link](https://ritik18406.medium.com/coding-period-1-week-1-e9ab9078d2d7) | [link](meetings/Coding_Period_1/week_1.md) |
 | Week 2 | link | link |
 | Week 3 | link | link |
 | Week 4 | link | link |
