@@ -1,7 +1,8 @@
 <div align="center">
-    <a href="https://summerofcode.withgoogle.com/projects/#6676319141625856"><img src="assets/gsoc.png" width="700" alt="gsoc logo"></a> <br>
+    <a href="https://summerofcode.withgoogle.com/projects/#6676319141625856"><img src="assets/gsoc_logo.png" width="500" alt="gsoc logo"></a> <br>
+    <a href="https://github.com/chaoss/mars"><img src="assets/MARS.jpg" width="400" alt="gsoc logo"></a> <br>
     <h2>
-        Automate Metrics Release and Process Improvement
+        Metrics Automated Release System 
     </h2>
 	<a href="#project-abstract">Project Abstract</a> |
     <a href="#weekly-meetings">Weekly Meetings</a> |
@@ -46,7 +47,7 @@ The meeting minutes document can be found [here](https://docs.google.com/documen
 | Coding Period 1 | Blog |  Notes |
 | :-------------: | :--: |  :---: |
 | Week 1 | [link](https://ritik18406.medium.com/coding-period-1-week-1-e9ab9078d2d7) | [link](meetings/Coding_Period_1/week_1.md) |
-| Week 2 | link | link |
+| Week 2 | [link](https://ritik18406.medium.com/coding-period-1-week-2-9e65bca8c368) | [link](meetings/Coding_Period_1/week_2.md) |
 | Week 3 | link | link |
 | Week 4 | link | link |
 | Week 5 | link | link |
@@ -54,21 +55,7 @@ The meeting minutes document can be found [here](https://docs.google.com/documen
 
 ## Links
 
+* [CHAOSS MARS Repository](https://github.com/chaoss/mars)
 * [Microtask Repository](github.com/ritik-malik/microtasks)
 * [GSoC '21 Project Proposal - CHAOSS](https://drive.google.com/file/d/1HJ2tHSVkZ3TJQUNDrmucDKkGXSVLQlr1/view?usp=sharing)
 * [Project Link](https://summerofcode.withgoogle.com/projects/#6676319141625856) on Google Summer of Code website
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
