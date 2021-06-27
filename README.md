@@ -48,7 +48,7 @@ The meeting minutes document can be found [here](https://docs.google.com/documen
 | :-------------: | :--: |  :---: |
 | Week 1 | [link](https://ritik18406.medium.com/coding-period-1-week-1-e9ab9078d2d7) | [link](meetings/Coding_Period_1/week_1.md) |
 | Week 2 | [link](https://ritik18406.medium.com/coding-period-1-week-2-9e65bca8c368) | [link](meetings/Coding_Period_1/week_2.md) |
-| Week 3 | link | link |
+| Week 3 | [link](https://ritik18406.medium.com/coding-period-1-week-3-f7f715f8f200) | [link](meetings/Coding_Period_1/week_3.md) |
 | Week 4 | link | link |
 | Week 5 | link | link |
 
