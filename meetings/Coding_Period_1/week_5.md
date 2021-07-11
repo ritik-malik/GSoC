@@ -1,0 +1,1 @@
+**No meeting happened during week 5 due to public holiday in U.S. on 5th July, 2021**

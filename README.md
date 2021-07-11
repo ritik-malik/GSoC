@@ -50,7 +50,7 @@ The meeting minutes document can be found [here](https://docs.google.com/documen
 | Week 2 | [link](https://ritik18406.medium.com/coding-period-1-week-2-9e65bca8c368) | [link](meetings/Coding_Period_1/week_2.md) |
 | Week 3 | [link](https://ritik18406.medium.com/coding-period-1-week-3-f7f715f8f200) | [link](meetings/Coding_Period_1/week_3.md) |
 | Week 4 | [link](https://ritik18406.medium.com/coding-period-1-week-4-11c9d4daeebc) | [link](meetings/Coding_Period_1/week_4.md) |
-| Week 5 | link | link |
+| Week 5 | [link](https://ritik18406.medium.com/coding-period-1-week-5-1d64c433a929) | [link](meetings/Coding_Period_1/week_5.md) |
 
 
 ## Links
