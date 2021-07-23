@@ -23,8 +23,11 @@ Once the automatic metric release is implemented, we can extend this idea to aut
 ## Mentors
 
 * [Georg Link](https://github.com/georgLink)
+
 * [Jaskirat Singh](https://github.com/jaskiratsingh2000)
+
 * [Kevin Lumbard](https://github.com/klumb)
+
 * [Matt Germonprez](https://github.com/germonprez)
 
 ## Prototype Pipeline
@@ -39,18 +42,26 @@ The meeting minutes document can be found [here](https://docs.google.com/documen
 
 ## Weekly Updates
 
-| GSoC Acceptence | Blog |
-| :-------------: | :--: |
-| GSoC acceptance blog | [link](https://ritik18406.medium.com/a-new-expedition-awaits-gsoc-21-639fc117e5a0) |
+| GSoC Acceptence | Time Duration | Blog |
+| :-------------: | :--: | :--: |
+| GSoC acceptance blog | May 17, 2021 | [link](https://ritik18406.medium.com/a-new-expedition-awaits-gsoc-21-639fc117e5a0) |
 
 
-| Coding Period 1 | Blog |  Notes |
-| :-------------: | :--: |  :---: |
-| Week 1 | [link](https://ritik18406.medium.com/coding-period-1-week-1-e9ab9078d2d7) | [link](meetings/Coding_Period_1/week_1.md) |
-| Week 2 | [link](https://ritik18406.medium.com/coding-period-1-week-2-9e65bca8c368) | [link](meetings/Coding_Period_1/week_2.md) |
-| Week 3 | [link](https://ritik18406.medium.com/coding-period-1-week-3-f7f715f8f200) | [link](meetings/Coding_Period_1/week_3.md) |
-| Week 4 | [link](https://ritik18406.medium.com/coding-period-1-week-4-11c9d4daeebc) | [link](meetings/Coding_Period_1/week_4.md) |
-| Week 5 | [link](https://ritik18406.medium.com/coding-period-1-week-5-1d64c433a929) | [link](meetings/Coding_Period_1/week_5.md) |
+| Coding Period 1 | Time Duration | Blog |  Notes |
+| :-------------: | :--: | :--: |  :---: |
+| Week 1 | June 7  - June 13, 2021 | [link](https://ritik18406.medium.com/coding-period-1-week-1-e9ab9078d2d7) | [link](meetings/Coding_Period_1/week_1.md) |
+| Week 2 | June 14 - June 20, 2021 | [link](https://ritik18406.medium.com/coding-period-1-week-2-9e65bca8c368) | [link](meetings/Coding_Period_1/week_2.md) |
+| Week 3 | June 21 - June 27, 2021 | [link](https://ritik18406.medium.com/coding-period-1-week-3-f7f715f8f200) | [link](meetings/Coding_Period_1/week_3.md) |
+| Week 4 | June 28 - July 4,  2021 | [link](https://ritik18406.medium.com/coding-period-1-week-4-11c9d4daeebc) | [link](meetings/Coding_Period_1/week_4.md) |
+| Week 5 | July 5  - July 11, 2021 | [link](https://ritik18406.medium.com/coding-period-1-week-5-1d64c433a929) | [link](meetings/Coding_Period_1/week_5.md) |
+
+| Coding Period 2 | Time Duration | Blog |  Notes |
+| :-------------: | :--: | :--: |  :---: |
+| Week 6  | July 12 - July 18, 2021 | [link](https://ritik18406.medium.com/coding-period-2-week-6-95fa52118ff4) | [link](meetings/Coding_Period_2/week_6.md) |
+| Week 7  | - | link | link |
+| Week 8  | - | link | link |
+| Week 9  | - | link | link |
+| Week 10 | - | link | link |
 
 
 ## Links
