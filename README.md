@@ -58,7 +58,7 @@ The meeting minutes document can be found [here](https://docs.google.com/documen
 | Coding Period 2 | Time Duration | Blog |  Notes |
 | :-------------: | :--: | :--: |  :---: |
 | Week 6  | July 12 - July 18, 2021 | [link](https://ritik18406.medium.com/coding-period-2-week-6-95fa52118ff4) | [link](meetings/Coding_Period_2/week_6.md) |
-| Week 7  | - | link | link |
+| Week 7  | July 19 - July 25, 2021 | [link](https://ritik18406.medium.com/coding-period-2-week-7-a0d498054184) | [link](meetings/Coding_Period_2/week_7.md) |
 | Week 8  | - | link | link |
 | Week 9  | - | link | link |
 | Week 10 | - | link | link |
