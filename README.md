@@ -59,7 +59,7 @@ The meeting minutes document can be found [here](https://docs.google.com/documen
 | :-------------: | :--: | :--: |  :---: |
 | Week 6  | July 12 - July 18, 2021 | [link](https://ritik18406.medium.com/coding-period-2-week-6-95fa52118ff4) | [link](meetings/Coding_Period_2/week_6.md) |
 | Week 7  | July 19 - July 25, 2021 | [link](https://ritik18406.medium.com/coding-period-2-week-7-a0d498054184) | [link](meetings/Coding_Period_2/week_7.md) |
-| Week 8  | - | link | link |
+| Week 8  | July 26 - Aug 1, 2021   | [link](https://ritik18406.medium.com/coding-period-2-week-8-12e22d54b323) | [link](meetings/Coding_Period_2/week_8.md) |
 | Week 9  | - | link | link |
 | Week 10 | - | link | link |
 
@@ -67,6 +67,7 @@ The meeting minutes document can be found [here](https://docs.google.com/documen
 ## Links
 
 * [CHAOSS MARS Repository](https://github.com/chaoss/mars)
-* [Microtask Repository](github.com/ritik-malik/microtasks)
-* [GSoC '21 Project Proposal - CHAOSS](https://drive.google.com/file/d/1HJ2tHSVkZ3TJQUNDrmucDKkGXSVLQlr1/view?usp=sharing)
+* [Meduim Blogs](https://ritik18406.medium.com/)
 * [Project Link](https://summerofcode.withgoogle.com/projects/#6676319141625856) on Google Summer of Code website
+* [GSoC '21 Project Proposal - CHAOSS](https://drive.google.com/file/d/1HJ2tHSVkZ3TJQUNDrmucDKkGXSVLQlr1/view?usp=sharing)
+* [Microtask Repository](github.com/ritik-malik/microtasks)
