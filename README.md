@@ -60,8 +60,8 @@ The meeting minutes document can be found [here](https://docs.google.com/documen
 | Week 6  | July 12 - July 18, 2021 | [link](https://ritik18406.medium.com/coding-period-2-week-6-95fa52118ff4) | [link](meetings/Coding_Period_2/week_6.md) |
 | Week 7  | July 19 - July 25, 2021 | [link](https://ritik18406.medium.com/coding-period-2-week-7-a0d498054184) | [link](meetings/Coding_Period_2/week_7.md) |
 | Week 8  | July 26 - Aug 1, 2021   | [link](https://ritik18406.medium.com/coding-period-2-week-8-12e22d54b323) | [link](meetings/Coding_Period_2/week_8.md) |
-| Week 9  | - | [link](https://ritik18406.medium.com/coding-period-2-week-9-fe703084df3e) | [link](meetings/Coding_Period_2/week_9.md) |
-| Week 10 | - | link | link |
+| Week 9  | Aug 2 - Aug 8, 2021 | [link](https://ritik18406.medium.com/coding-period-2-week-9-fe703084df3e) | [link](meetings/Coding_Period_2/week_9.md) |
+| Week 10 | Aug 9 - Aug 15 | [link](https://ritik18406.medium.com/coding-period-2-week-10-433cf5b98d3c) | [link](meetings/Coding_Period_2/week_10.md) |
 
 
 ## Links
