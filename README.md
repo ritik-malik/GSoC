@@ -7,6 +7,7 @@
 	<a href="#project-abstract">Project Abstract</a> |
     <a href="#weekly-meetings">Weekly Meetings</a> |
     <a href="#weekly-updates">Weekly Upates</a> |
+    <a href="#final-report">Final Report</a> |
     <a href="#links">Links</a>
     <br>
     Weekly updates will be posted on my <a href="https://medium.com/@ritik18406">blog</a>
@@ -63,11 +64,22 @@ The meeting minutes document can be found [here](https://docs.google.com/documen
 | Week 9  | Aug 2 - Aug 8, 2021 | [link](https://ritik18406.medium.com/coding-period-2-week-9-fe703084df3e) | [link](meetings/Coding_Period_2/week_9.md) |
 | Week 10 | Aug 9 - Aug 15 | [link](https://ritik18406.medium.com/coding-period-2-week-10-433cf5b98d3c) | [link](meetings/Coding_Period_2/week_10.md) |
 
+| GSoC Conclusion | Time Duration | Blog |
+| :-------------: | :--: | :--: |
+| GSoC Conclusion blog | Aug 21, 2021 | [link](https://ritik18406.medium.com/gsoc-21-the-conclusion-bdbb0c1d082c) |
+
+## Final Report
+
+My final report for GSoC '21 can be found [here](https://gist.github.com/ritik-malik/5a1a48bb966892824d7da31fc12ede50)!
+
+The final blog can be found [here](https://ritik18406.medium.com/gsoc-21-the-conclusion-bdbb0c1d082c).
+
 
 ## Links
 
 * [CHAOSS MARS Repository](https://github.com/chaoss/mars)
-* [Meduim Blogs](https://ritik18406.medium.com/)
-* [Project Link](https://summerofcode.withgoogle.com/projects/#6676319141625856) on Google Summer of Code website
-* [GSoC '21 Project Proposal - CHAOSS](https://drive.google.com/file/d/1HJ2tHSVkZ3TJQUNDrmucDKkGXSVLQlr1/view?usp=sharing)
+* [Project Selection Link](https://summerofcode.withgoogle.com/projects/#6676319141625856)
 * [Microtask Repository](github.com/ritik-malik/microtasks)
+* [Project Proposal](https://drive.google.com/file/d/1HJ2tHSVkZ3TJQUNDrmucDKkGXSVLQlr1/view?usp=sharing)
+* [Meduim Blogs](https://ritik18406.medium.com/)
+* [Final Report](https://gist.github.com/ritik-malik/5a1a48bb966892824d7da31fc12ede50)
