@@ -68,15 +68,20 @@ The meeting minutes document can be found [here](https://docs.google.com/documen
 | :-------------: | :--: | :--: |
 | GSoC Conclusion blog | Aug 21, 2021 | [link](https://ritik18406.medium.com/gsoc-21-the-conclusion-bdbb0c1d082c) |
 
-## Final Report
+## Result
 
-My final report for GSoC '21 can be found [here](https://gist.github.com/ritik-malik/5a1a48bb966892824d7da31fc12ede50)!
+The project is offically completed and I passed all the evaluations!
+
+The final project on the GSoC website can be found [here](https://summerofcode.withgoogle.com/projects/#6676319141625856).
+
+My final report for GSoC '21 can be found [here](https://gist.github.com/ritik-malik/5a1a48bb966892824d7da31fc12ede50).
 
 The final blog can be found [here](https://ritik18406.medium.com/gsoc-21-the-conclusion-bdbb0c1d082c).
 
 
 ## Links
 
+* [Project Link on GSoC website](https://summerofcode.withgoogle.com/projects/#6676319141625856)
 * [CHAOSS MARS Repository](https://github.com/chaoss/mars)
 * [Project Selection Link](https://summerofcode.withgoogle.com/projects/#6676319141625856)
 * [Microtask Repository](github.com/ritik-malik/microtasks)
