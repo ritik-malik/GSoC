@@ -7,7 +7,7 @@
 	<a href="#project-abstract">Project Abstract</a> |
     <a href="#weekly-meetings">Weekly Meetings</a> |
     <a href="#weekly-updates">Weekly Upates</a> |
-    <a href="#final-report">Final Report</a> |
+    <a href="#result">Result</a> |
     <a href="#links">Links</a>
     <br>
     Weekly updates will be posted on my <a href="https://medium.com/@ritik18406">blog</a>
